@@ -7,10 +7,10 @@ int nota2 = int.Parse(Console.ReadLine());
 Console.WriteLine($"Insira a nota 3: ");
 int nota3 = int.Parse(Console.ReadLine());
 
-Console.WriteLine($"Insira a nota 1: ");
+Console.WriteLine($"Insira a nota 4: ");
 int nota4 = int.Parse(Console.ReadLine());
 
-Console.WriteLine($"Insira a nota 2: ");
+Console.WriteLine($"Insira a nota 5: ");
 int nota5 = int.Parse(Console.ReadLine());
 
 int resultado = (nota1 + nota2 + nota3 + nota4 + nota5) / 5;
