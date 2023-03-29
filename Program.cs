@@ -17,11 +17,11 @@ int resultado = (nota1 + nota2 + nota3 + nota4 + nota5) / 5;
 
 Console.WriteLine($"A média do aluno é igual a: {resultado}.");
 
-// if (resultado > 5)
-// {
-//     Console.WriteLine("Aluno aprovado.");
-// }
-// else
-// {
-//     Console.WriteLine("Aluno reprovado.");
-// }
+if (resultado > 5)
+{
+    Console.WriteLine("Aluno aprovado.");
+}
+else
+{
+    Console.WriteLine("Aluno reprovado.");
+}
